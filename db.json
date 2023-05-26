@@ -10,5 +10,72 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "/api/proTask/todoList": {
+    "code": "200",
+    "msg": "操作成功",
+    "data": {
+        "sEcho": "",
+        "iTotalRecords": 1,
+        "iTotalDisplayRecords": 1,
+        "aaData": [
+            {
+                "limitTime": "2023-05-16 13:14:13",
+                "alarmTypeName": "日常任务",
+                "taskNum": "TASK_130000_20230516_111350_461_16_0",
+                "eventPrincipalName": "石家庄诚峰热电有限公司",
+                "taskSourceName": null,
+                "cityName": null,
+                "countyName": null,
+                "alarmTime": "2022-08-30 16:00:00",
+                "alarmDesc": "自动监控，处置单编号：202208300100003在执法系统逾期未核查办理，处置单内容：石家庄诚峰热电有限公司,2号脱硫塔排放口烟尘于2022-08-30 16:00:00数据超标1.780840-1.780840倍！在执法系统4小时未进行初步核查、28小时未进行现场核实",
+                "provinceCityName": "省级",
+                "taskStatusName": "逾期未办理",
+                "signStatusName": null,
+                "id": "1421624364175147841",
+                "businessId": "24f3ed9fe1a043919c0fda01d1e4eebe",
+                "instanceId": "1421624364082873152",
+                "workFlowId": "1421624364175147840",
+                "parentId": "1421624364141593408",
+                "taskType": 1,
+                "taskUserId": null,
+                "taskDepartmentId": "16",
+                "taskDepartmentName": null,
+                "topName": "河北省",
+                "assignTime": "2023-05-16 11:13:50",
+                "signStatus": 0,
+                "feedBackId": null,
+                "createUser": "18000000005",
+                "createDepartmentId": "1",
+                "createTime": "2023-05-16 11:13:50",
+                "updateTime": null,
+                "updateUser": null,
+                "pageIndex": null,
+                "pageSize": null,
+                "alarmType": "1",
+                "taskStatus": "1",
+                "feedbackContent": null,
+                "provinceCity": 1,
+                "flowLevel": 2,
+                "taskSource": "4",
+                "urgentLevel": "0",
+                "startTime": null,
+                "endTime": null,
+                "alarmBelongRegionCode": "130123",
+                "assignDepartmentId": null,
+                "urgeCount": 0,
+                "downId": null,
+                "downName": null,
+                "taskContent": null,
+                "approvalUser": null,
+                "contact": null,
+                "taskFile": null,
+                "taskIds": null,
+                "areaCode": null,
+                "accessToken": null
+            }
+        ],
+        "aaObj": null
+    }
+}
 }
